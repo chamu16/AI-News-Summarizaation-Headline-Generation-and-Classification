@@ -16,7 +16,7 @@ In today's digital age, staying informed has become increasingly challenging due
 
 
 
-## Conclusion
+## Results and discussion
 
 ●	The proposed framework for summarization, headline generation, and article classification has been successfully implemented using various techniques and algorithms.
 
