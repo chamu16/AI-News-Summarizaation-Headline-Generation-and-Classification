@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/style.css">
+    <title>Article Summarizer</title>
+</head>
+
+<body>
+    <h1 class="heading">AI Summarizer, Headline Generator & Classifier</h1>
+    <div class="column" style="background-color:#ffffff;">
+        <h2>Enter Article</h2>
+        <form method="POST">
+            <textarea name="article" class="input" id="input" cols="70" rows="13" placeholder="Enter an Article"></textarea>
+            <br>
+            <br>
+            <br>
+            <div class="container1">
+                <button id="button1" class="button" type="submit" name="action" value="sum">Summarize</button>
+                <button id="button2" class="button" type="submit" name="action" value="head">Generate Headline</button>
+                <button id="button3" class="button" type="submit" name="action" value="class">Classify</button>
+            </div>
+        </form>
+    </div>
+    <div class="column1">
+        <h2>Output</h2>
+        <output name="Output">{{output}}</output>
+    </div>
+</body>
+
+</html>
