@@ -9,15 +9,21 @@ In today's digital age, staying informed has become increasingly challenging due
 ## Objective
 
 ●	Develop a comprehensive framework for producing concise summaries and appealing headlines using Machine Learning and Natural Language Processing models.
+
 ●	Utilize various techniques such as NLP-based methods and deep learning algorithms to efficiently summarize and categorize news articles.
+
 ●	Create a complete framework for summarizing news articles, generating headlines, and classifying news articles into specific categories
 
 
 
 ## Conclusion
+
 ●	The proposed framework for summarization, headline generation, and article classification has been successfully implemented using various techniques and algorithms.
+
 ●	The results show that the model performs well in terms of accuracy, F1-score, and ROUGE score.
+
 ●	The framework can be used by traditional news organizations to adapt to the changing digital landscape and provide readers with concise and relevant information.
+
 ●	The study demonstrates the potential of Machine Learning and Natural Language Processing models in improving the efficiency and effectiveness of news summarization and classification tasks.
 
 
