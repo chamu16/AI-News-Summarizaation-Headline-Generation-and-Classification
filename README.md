@@ -1,5 +1,11 @@
 # AI News Summarizaation, Headline Generation and Classification
 
+## Dataset
+
+https://www.kaggle.com/datasets/pariza/bbc-news-summary/data
+
+
+
 ## Introduction
 
 In today's digital age, staying informed has become increasingly challenging due to the vast amount of data available. News summarization not only enhances the reader experience but also helps traditional news organizations adapt to the changing digital landscape while maintaining journalistic excellence. The role of summaries and headlines has become crucial in providing concise and relevant information to readers[1].
